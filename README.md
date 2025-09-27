@@ -1,8 +1,8 @@
-# Research Task 06 – Descriptive Statistics with Grouping (Premier League Dataset)
+# Research Task 05 (Part 2) – Descriptive Statistics with Grouping (Premier League Dataset)
 
 ## 📌 Overview
-This project is **Research Task 06**, which builds upon the work completed in **Research Task 05**.  
-In Task 05, I:
+This project is **Research Task 05**, which builds upon the work completed in **Research Task 05 - Part 1**.  
+In Task 05 - Part 01, I:
 - Used the Premier League 2022–23 dataset (first 10 rows only) to create descriptive statistics without grouping.
 - Generated 10 natural language questions for an LLM (ChatGPT) to answer.
 - Compared LLM responses with my Python-generated descriptive statistics.
@@ -12,7 +12,7 @@ In Task 05, I:
 
 ---
 
-## 🏟 Task 06 Objective
+## 🏟 Task 05 - Part 2 Objective
 - Perform descriptive statistics **grouped by stadium**.
 - Create a **pivot-style summary table** that is more concise and easier to read than the raw grouped output.
 - Limit visualizations to specific columns to focus the analysis:
@@ -75,7 +75,7 @@ This task helped me:
 
 ---
 
-## 🔗 Continuation from Task 05
-Task 06 expands upon Task 05 by introducing grouping logic and more targeted visualizations, providing deeper, stadium-specific insights.
+## 🔗 Continuation from Task 05 - Part 1
+Part 2 expands upon Task 05 by introducing grouping logic and more targeted visualizations, providing deeper, stadium-specific insights.
 
 ---
