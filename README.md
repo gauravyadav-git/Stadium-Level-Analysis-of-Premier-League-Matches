@@ -1,7 +1,7 @@
 # Research Task 05 (Part 2) – Descriptive Statistics with Grouping (Premier League Dataset)
 
 ## 📌 Overview
-This project is **Research Task 05**, which builds upon the work completed in **Research Task 05 - Part 1**.  
+This project is **Research Task 05 - Part 2**, which builds upon the work completed in **Research Task 05 - Part 1**.  
 In Task 05 - Part 01, I:
 - Used the Premier League 2022–23 dataset (first 10 rows only) to create descriptive statistics without grouping.
 - Generated 10 natural language questions for an LLM (ChatGPT) to answer.
