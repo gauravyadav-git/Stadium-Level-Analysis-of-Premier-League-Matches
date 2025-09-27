@@ -42,7 +42,7 @@ In Task 05 - Part 01, I:
 | **qa_results.xlsx** | Python-generated results for questions that require extra computation. |
 | **questions.txt** | The 10 LLM prompts for Task 06. |
 | **summary_grouped_by_stadium_Premier_League.xls** | Stadium-level descriptive statistics (pivot-style summary). |
-| **Task_06_descriptive_stats.ipynb** | Jupyter Notebook containing all Python code for Task 06. |
+| **Task_06_descriptive_stats.ipynb** | Jupyter Notebook containing all Python code for Task 05 - Part 2. |
 
 ---
 
